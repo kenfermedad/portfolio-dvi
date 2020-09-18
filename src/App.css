@@ -1,0 +1,290 @@
+/* Navbar */
+.navbar {
+  top: 0;
+  z-index: 500;
+  width: 100%;
+  color: #FFFFFF;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  background: #0f0c29;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: background 0.3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3),
+    0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+.navbar .nav-item:hover .nav-link{ 
+  border-radius: 5px;
+  background:  #0f0c2934;
+}
+
+/* Footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 0.1rem;
+  font-size: 0.8em;
+  width: 100%;
+  margin-top: 2rem;
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0, 0.507);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3),
+    0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+/* Home */
+.presentation {
+  /* width: '100%'; 
+  margin: 'auto'; */
+  margin-top: 3.468rem;
+}
+
+.home-grid {
+  text-align: center;
+}
+
+.avatar-img {
+  height: 16rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 50%;
+}
+
+.banner-text {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: auto;
+  margin-bottom: 1.5rem;
+  background-color: black;
+  opacity: 0.8;
+  width: 75%;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 4em;
+  font-weight: bold;
+  color: white;
+  padding-bottom: 1rem;
+}
+
+.banner-text hr {
+  border-top: 0.4rem dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 1.4em;
+  padding: 1rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding-bottom: 1rem;
+  margin: auto;
+}
+
+/* Resume */
+.avatar-img-resume {
+  height: 15rem;
+  border-radius: 10px;
+  margin-top: 0rem;
+  margin-bottom: 2rem;
+}
+
+.resume-h2 {
+  padding-top: 0rem;
+}
+
+.resume-h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+  margin-top: 1rem;
+}
+
+.hr-resume-left {
+  border-top: 3px solid #833fb2;
+  width: 100%;
+}
+
+.hr-resume-right {
+  border-top: 3px solid #e22947;
+}
+
+.sub-resume {
+  color: rgb(128, 128, 128);
+}
+
+.resume-left-col {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Skills */
+.skills-bar {
+  padding: 1rem;
+  display: flex;
+}
+
+.skills-row {
+  padding: 1rem;
+}
+
+.progress{
+  height: 10px;
+  margin: 0.5rem;
+}
+
+.progress-bar{
+  background: #8E2DE2;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  /* Contact */
+  .info{
+    justify-content: center;
+    background-color: #FFFFFF;
+    align-items: center;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .info-h1{
+    padding-bottom: 2rem;
+  }
+
+  .info-h3{
+    font-weight: 350;
+  }
+
+  .contact{
+    justify-content: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .contact i {
+    margin-top: 2rem;
+    font-size: 2.5em;
+    padding: 1rem;
+  }
+
+@media screen and (max-width:480px) {
+
+  /* Home */
+  .avatar-img {
+    height: 14rem;
+    border-radius: 50%;
+  }
+
+  .banner-text h1 {
+    font-size: 2em;
+    padding-bottom: 1rem;
+  }
+
+  .banner-text p {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+
+  .social-links i {
+    font-size: 2.5em;
+    padding-bottom: 0.5rem;
+    margin: auto;
+  }
+
+  /* Skills */
+  .skills-bar {
+    padding: 1rem;
+    display: inline;
+  }
+
+  /* Contact */
+  .info{
+    justify-content: none;
+    align-items: none;
+    margin-bottom: 0;
+  }
+
+  .contact{
+    margin-top: 0;
+    justify-content: none;
+    padding-top: 0;
+    margin-bottom: 2rem;
+  }
+
+  .contact i {
+    margin-top: 0;
+  }
+
+}
+
+@media screen and (max-width:768px) {
+
+  /* Home */
+  .avatar-img {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  /* Skills */
+  .skills-bar {
+    padding: 1rem;
+    display: inline;
+  }
+
+  /* Contact */
+  .info{
+    justify-content: none;
+    align-items: none;
+    margin-bottom: 0;
+  }
+
+  .contact{
+    margin-top: 0;
+    justify-content: none;
+    padding-top: 0;
+    margin-bottom: 2rem;
+  }
+
+  .contact i {
+    margin-top: 0;
+  }
+
+}
+
+@media screen and (max-width:992px) {}
+
+@media print and (min-width: 700px) {}
