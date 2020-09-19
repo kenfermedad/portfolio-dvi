@@ -17,7 +17,7 @@ export default function Projects() {
                             <div className="row row-cols-1 row-cols-md-3">
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/GS.jpg?alt=media&token=6778a817-a847-40c8-9819-bc78dd589f3e" className="card-img-top" alt="GlobalScope" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/GS.jpg?alt=media&token=6778a817-a847-40c8-9819-bc78dd589f3e" className="card-img-top img-fluid" alt="GlobalScope" />
                                         <div className="card-body">
                                             <h5 className="card-title">GlobalScope</h5>
                                             <p className="card-text">Website developed to showcase the products and services of GlobalScope, a consulting sector of the Venezuelan company Global Ratings C.A.</p>
