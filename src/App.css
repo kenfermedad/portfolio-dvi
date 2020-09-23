@@ -170,15 +170,16 @@
   background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
 
-  /* Projects */
 
+  /* Projects */
+/* 
   .card{
 
   }
   
   .card:hover img {
     transform: scale(1.05);
-    } 
+    }  */
 
   /* Contact */
   .info{
@@ -210,35 +211,6 @@
     font-size: 2.5em;
     padding: 1rem;
   }
-
-  .carousel-inner img {
-    margin: auto;
-  }
-
-  .carousel-control-prev-icon,
-.carousel-control-next-icon {
-  height: 5.5rem;
-  width: 5.5rem;
-  background-size: 100%, 100%;
-  border-radius: 50%;
-  background-color: rgba(0, 0, 0, 0.712);
-  background-image: none;
-}
-
-.carousel-control-next-icon:after
-{
-  content: '>';
-  font-size: 3rem;
-  font-weight: 400;
-  color: #9e42f5;
-}
-
-.carousel-control-prev-icon:after {
-  content: '<';
-  font-size: 3rem;
-  font-weight: 400;
-  color: #9e42f5;
-}
 
 @media screen and (max-width:480px) {
 
