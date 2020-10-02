@@ -14,7 +14,7 @@ export default function Resume() {
                     <h2 className="resume-h2">Daniel Velásquez Iturrate</h2>
                     <h4 className="sub-resume">Software Developer</h4>
                     <hr className="hr-resume-left" />
-                    <p>I am a Systems Engineer with general knowledge in software development. In addition, I am interested in learning about UI / UX Design, Machine Learning and Network Interconnection.
+                    <p>I am a Systems Engineer with knowledge in software development, especially in the Front End area. In addition, I am interested in learning about SAP, AWS, IA and Google Cloud.
                     </p>
                     <hr className="hr-resume-left" />
                     <h5>Address</h5>
@@ -39,6 +39,12 @@ export default function Resume() {
                         </li>
                     </ul>
                     <hr className="hr-resume-left" />
+                    <h5>Download CV</h5>
+                    <div className="row">
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Daniel%20Velasquez%20Iturrate-%20CV%20English.pdf?alt=media&token=a312042b-6e70-47ba-a798-6f77638c27f4" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Daniel%20Velasquez%20Iturrate-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=ee2e42c0-49b7-439e-98e2-fe04884e6c15" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
+                    </div>
+                    <hr className="hr-resume-left" />
                 </div>
                 <div className="col-md-12 col-lg-8 resume-right-col">
                     <h2>Education</h2>
@@ -53,7 +59,7 @@ export default function Resume() {
                         universityDescription="Systems Engineer Degree"
                     />
                     <hr className="hr-resume-right" />
-                    <h2>Experience</h2>
+                    <h2>Work Experience</h2>
                     <Experience
                         startDateJob="Sep 2019"
                         endDateJob="Sep 2020"
@@ -141,6 +147,16 @@ export default function Resume() {
                         startDateCertificationRight="May 2020"
                         endDateCertificationRight="Jun 2020"
                         certificationNameRight="Productividad Personal"
+                        certificationDescriptionRight="Google Actívate"
+                    />
+                    <Certifications
+                        startDateCertificationLeft="Sep 2020"
+                        endDateCertificationLeft="Sep 2020"
+                        certificationNameLeft="Digitaliza paso a paso tu negocio con Google My Business y Youtube"
+                        certificationDescriptionLeft="Google Actívate"
+                        startDateCertificationRight="Sep 2020"
+                        endDateCertificationRight="Sep 2020"
+                        certificationNameRight="Protege tu Negocio: Ciberseguridad en el Teletrabajo"
                         certificationDescriptionRight="Google Actívate"
                     />
                     <hr className="hr-resume-right" />
