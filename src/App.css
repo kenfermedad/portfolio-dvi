@@ -154,6 +154,10 @@
   margin-bottom: 1rem;
 }
 
+.LI-profile-badge{
+  width: 100%;
+}
+
 /* Skills */
 .skills-bar {
   padding: 1rem;

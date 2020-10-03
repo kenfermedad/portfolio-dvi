@@ -45,6 +45,8 @@ export default function Resume() {
                     <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Velasquez%20Iturrate-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=2c7e8c12-c20f-4b9a-a2d9-75df214f3671" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
                     </div>
                     <hr className="hr-resume-left" />
+                    {/* <div className="LI-profile-badge align-items-center"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="daniel-velasquez-iturrate"><a className="LI-simple-link" href='https://ve.linkedin.com/in/daniel-velasquez-iturrate?trk=profile-badge'>Daniel Velásquez Iturrate</a></div>
+                    <hr className="hr-resume-left" /> */}
                 </div>
                 <div className="col-md-12 col-lg-8 resume-right-col">
                     <h2>Education</h2>
