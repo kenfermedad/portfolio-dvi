@@ -12,7 +12,7 @@ export default function Contact() {
                 <div><i className="fa fa-phone-square" aria-hidden="true"></i> +58 (424) 140-0496</div>
                 <div><i className="fa fa-fax" aria-hidden="true"></i> +58 (212) 242-7764</div>
                 <div><i className="fa fa-envelope" aria-hidden="true"></i>velasqueziturrate@gmail.com</div>
-                <div><i className="fa fa-linkedin-square" aria-hidden="true"></i><a href="https://www.linkedin.com/in/daniel-velasquez-iturrate" target="_blank" rel="noopener noreferrer"> /daniel-velasquez-iturrate</a></div>
+                <div><i className="fab fa-linkedin" /><a href="https://www.linkedin.com/in/daniel-velasquez-iturrate" target="_blank" rel="noopener noreferrer"> /daniel-velasquez-iturrate</a></div>
             </div>
         </div>
     );
