@@ -17,7 +17,7 @@ export default function Projects() {
                             <div className="row row-cols-1 row-cols-md-3">
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/GS.jpg?alt=media&token=6778a817-a847-40c8-9819-bc78dd589f3e" className="card-img-top img-fluid" alt="GlobalScope" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FGS.jpg?alt=media&token=14da11b3-b7c5-401d-9586-bbbca03fa120" className="card-img-top img-fluid" alt="GlobalScope" />
                                         <div className="card-body">
                                             <h5 className="card-title">GlobalScope</h5>
                                             <p className="card-text">Website developed to showcase the products and services of GlobalScope, a consulting sector of the Venezuelan company Global Ratings C.A.</p>
@@ -29,7 +29,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/GR.jpg?alt=media&token=173ed643-4a38-4524-a87b-c2b03dcb6240" className="card-img-top" alt="Global Ratings" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FGR.jpg?alt=media&token=f6cf8db9-3f15-4411-a715-06187550bdfd" className="card-img-top" alt="Global Ratings" />
                                         <div className="card-body">
                                             <h5 className="card-title">Global Ratings</h5>
                                             <p className="card-text">Main website of the Venezuelan risk rating company Global Ratings C.A.</p>
@@ -41,7 +41,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/GraphQL.jpg?alt=media&token=1533558b-17ce-4db1-bb85-49c82480e6d9" className="card-img-top" alt="Forum Real-Time Apollo GraphQL" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FGraphQL.jpg?alt=media&token=f5ee0f7a-74b1-4e15-8ec9-62cbc735d1f5" className="card-img-top" alt="Forum Real-Time Apollo GraphQL" />
                                         <div className="card-body">
                                             <h5 className="card-title">Forum Real-Time Apollo GraphQL</h5>
                                             <p className="card-text">Real-time application developed with a Apollo GraphQL API for my degree thesis.</p>
@@ -53,7 +53,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/REST.jpg?alt=media&token=2a5bf5f1-38cb-4ab8-9075-3792ad849918" className="card-img-top" alt="Forum Real-Time Socket.IO" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FREST.jpg?alt=media&token=ed228ecd-98e7-40ba-b3d1-9518617d3e70" className="card-img-top" alt="Forum Real-Time Socket.IO" />
                                         <div className="card-body">
                                             <h5 className="card-title">Forum Real-Time Socket.IO</h5>
                                             <p className="card-text">Real-time application developed with a REST API with the Socket.IO library for my degree thesis.</p>
@@ -72,7 +72,7 @@ export default function Projects() {
                             <div className="row row-cols-1 row-cols-md-3">
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Angular.png?alt=media&token=e788fdcf-3cf0-4637-b40d-e1097469a521" className="card-img-top" alt="Project 1" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAngular.png?alt=media&token=338eb0ec-279e-466b-b3d6-f053e1d59ac8" className="card-img-top" alt="Project 1" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 1</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -84,7 +84,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Angular.png?alt=media&token=e788fdcf-3cf0-4637-b40d-e1097469a521" className="card-img-top" alt="Project 2" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAngular.png?alt=media&token=338eb0ec-279e-466b-b3d6-f053e1d59ac8" className="card-img-top" alt="Project 2" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 2</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -96,7 +96,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Angular.png?alt=media&token=e788fdcf-3cf0-4637-b40d-e1097469a521" className="card-img-top" alt="Project 3" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAngular.png?alt=media&token=338eb0ec-279e-466b-b3d6-f053e1d59ac8" className="card-img-top" alt="Project 3" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 3</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -108,7 +108,7 @@ export default function Projects() {
                                 </div>
                                 {/* <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Angular.png?alt=media&token=e788fdcf-3cf0-4637-b40d-e1097469a521" className="card-img-top" alt="Project 4" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAngular.png?alt=media&token=338eb0ec-279e-466b-b3d6-f053e1d59ac8" className="card-img-top" alt="Project 4" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 4</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -127,7 +127,7 @@ export default function Projects() {
                             <div className="row row-cols-1 row-cols-md-3">
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Vue.jpeg?alt=media&token=8960da08-0879-4ec5-9350-65b5ec89f83d" className="card-img-top" alt="Project 1" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FVue.jpeg?alt=media&token=98fd5b06-2a14-4d99-8544-d2a2ddc285f1" className="card-img-top" alt="Project 1" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 1</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -139,7 +139,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Vue.jpeg?alt=media&token=8960da08-0879-4ec5-9350-65b5ec89f83d" className="card-img-top" alt="Project 2" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FVue.jpeg?alt=media&token=98fd5b06-2a14-4d99-8544-d2a2ddc285f1" className="card-img-top" alt="Project 2" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 2</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -151,7 +151,7 @@ export default function Projects() {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Vue.jpeg?alt=media&token=8960da08-0879-4ec5-9350-65b5ec89f83d" className="card-img-top" alt="Project 3" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FVue.jpeg?alt=media&token=98fd5b06-2a14-4d99-8544-d2a2ddc285f1" className="card-img-top" alt="Project 3" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 3</h5>
                                             <p className="card-text">Coming soon...</p>
@@ -163,7 +163,7 @@ export default function Projects() {
                                 </div>
                                 {/* <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Vue.jpeg?alt=media&token=8960da08-0879-4ec5-9350-65b5ec89f83d" className="card-img-top" alt="Project 4" />
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FVue.jpeg?alt=media&token=98fd5b06-2a14-4d99-8544-d2a2ddc285f1" className="card-img-top" alt="Project 4" />
                                         <div className="card-body">
                                             <h5 className="card-title">Project 4</h5>
                                             <p className="card-text">Coming soon...</p>

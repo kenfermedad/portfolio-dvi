@@ -9,7 +9,7 @@ export default function Resume() {
             <div className="row resume">
                 <div className="col-md-12 col-lg-4 resume-left-col" >
                     <div className="text-center">
-                        <img className="avatar-img-resume" src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Home.jpg?alt=media&token=78208d9d-01e6-4287-b5ef-868f8683e2ae" alt="avatar" />
+                        <img className="avatar-img-resume" src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAvatarResume.jpg?alt=media&token=c61e2763-6bca-4abb-9af8-275924484328" alt="Avatar Daniel Velásquez Iturrate" />
                     </div>
                     <h2 className="resume-h2">Daniel Velásquez Iturrate</h2>
                     <h4 className="sub-resume">Software Developer</h4>
@@ -41,8 +41,8 @@ export default function Resume() {
                     <hr className="hr-resume-left" />
                     <h5>Download CV</h5>
                     <div className="row">
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Daniel%20Velasquez%20Iturrate-%20CV%20English.pdf?alt=media&token=a312042b-6e70-47ba-a798-6f77638c27f4" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Daniel%20Velasquez%20Iturrate-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=ee2e42c0-49b7-439e-98e2-fe04884e6c15" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Velasquez%20Iturrate-%20CV%20English.pdf?alt=media&token=938e6117-23b1-4301-8ef6-21e095d2a1b8" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Velasquez%20Iturrate-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=2c7e8c12-c20f-4b9a-a2d9-75df214f3671" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
                     </div>
                     <hr className="hr-resume-left" />
                 </div>

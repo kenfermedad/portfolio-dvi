@@ -5,7 +5,7 @@ export default function Home() {
         <div className="container presentation">
             <div className="row">
                 <div className="col text-center">
-                    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/Avatar.jpg?alt=media&token=d5276dbc-27a1-47b0-bd6c-bd2b3575b8a1" alt="Avatar Daniel Velásquez Iturrate" className="avatar-img" />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/img%2FAvatarHome.jpg?alt=media&token=9f8c740b-db2c-413e-a996-27875b3997f8" alt="Avatar Daniel Velásquez Iturrate" className="avatar-img" />
                 </div>
             </div>
             <div className="row">
