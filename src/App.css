@@ -134,6 +134,18 @@
   color: rgb(128, 128, 128);
 }
 
+.course-link{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.course-link:hover { 
+  text-decoration: underline;
+  color: #007bff;
+}
+
+
+
 .resume-left-col {
   padding-top: 2rem;
   padding-left: 2rem;

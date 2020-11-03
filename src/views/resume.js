@@ -39,13 +39,21 @@ export default function Resume() {
                         </li>
                     </ul>
                     <hr className="hr-resume-left" />
-                    <h5>Download CV</h5>
+                    <h5>Download Curriculum Vitae</h5>
                     <div className="row">
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Velasquez%20Iturrate-%20CV%20English.pdf?alt=media&token=938e6117-23b1-4301-8ef6-21e095d2a1b8" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Velasquez%20Iturrate-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=2c7e8c12-c20f-4b9a-a2d9-75df214f3671" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20English.pdf?alt=media&token=74d576f4-99e2-4eda-bfee-bd9c6b1122b4" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=175d4b1e-11f5-4874-9240-ea55c9a1567c" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
                     </div>
                     <hr className="hr-resume-left" />
-                    {/* <div className="LI-profile-badge align-items-center"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="daniel-velasquez-iturrate"><a className="LI-simple-link" href='https://ve.linkedin.com/in/daniel-velasquez-iturrate?trk=profile-badge'>Daniel Velásquez Iturrate</a></div>
+                    <h5>Download Cover Letter</h5>
+                    <div className="row">
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20Cover%20Letter%20International.pdf?alt=media&token=bf1ee4f7-de7b-4878-aeb6-adb76c453cde" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20Carta%20de%20Presentaci%C3%B3n%20Espa%C3%B1a.pdf?alt=media&token=4507b80b-9f64-4d21-a1d0-c2e72a14e4d0" rel="noopener noreferrer" target="_blank" alt="Download English">Español <i className="fas fa-download" /></a></div>
+                    </div>
+                    <hr className="hr-resume-left" />
+                    {/* Link LinkedIn */}
+                    {/*
+                    <div className="LI-profile-badge align-items-center"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="daniel-velasquez-iturrate"><a className="LI-simple-link" href='https://ve.linkedin.com/in/daniel-velasquez-iturrate?trk=profile-badge'>Daniel Velásquez Iturrate</a></div>
                     <hr className="hr-resume-left" /> */}
                 </div>
                 <div className="col-md-12 col-lg-8 resume-right-col">
@@ -71,96 +79,7 @@ export default function Resume() {
                     />
                     <hr className="hr-resume-right" />
                     <h2>Certifications</h2>
-                    <Certifications
-                        startDateCertificationLeft="Jul 2020"
-                        endDateCertificationLeft="Aug 2020"
-                        certificationNameLeft="AWS Fundamentals Specialization"
-                        certificationDescriptionLeft="AWS & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Cloud Computing"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Apr 2020"
-                        endDateCertificationLeft="Sep 2020"
-                        certificationNameLeft="Web Design for Everybody: Basics of Web Development & Coding  Specialization"
-                        certificationDescriptionLeft="University of Michigan & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Desarrollo de Apps Móviles"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Mar 2020"
-                        endDateCertificationLeft="Sep 2020"
-                        certificationNameLeft="Introduction to Cisco Specialization"
-                        certificationDescriptionLeft="Cisco & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Introducción al Desarrollo Web I"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Jul 2020"
-                        endDateCertificationLeft="Oct 2020"
-                        certificationNameLeft="Full Stack Web Development en Español Specialization"
-                        certificationDescriptionLeft="Universidad Austral & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Introducción al Desarrollo Web II"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Sep 2020"
-                        endDateCertificationLeft="Oct 2020"
-                        certificationNameLeft="UI/UX Design Specialization"
-                        certificationDescriptionLeft="California Institute of the Arts & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Fundamentos del Marketing Digital"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Oct 2020"
-                        endDateCertificationLeft="Nov 2020"
-                        certificationNameLeft="Introduction to MongoDB"
-                        certificationDescriptionLeft="MongoDB & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Comercio Electrónico"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Oct 2020"
-                        endDateCertificationLeft="Nov 2020"
-                        certificationNameLeft="Single Page Application with AngularJS"
-                        certificationDescriptionLeft="Johns Hopkins University & Coursera"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Competencias Digitales para Profesionales"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="May 2020"
-                        endDateCertificationLeft="Jun 2020"
-                        certificationNameLeft="Transformación Digital para el Empleo"
-                        certificationDescriptionLeft="Google Actívate"
-                        startDateCertificationRight="May 2020"
-                        endDateCertificationRight="Jun 2020"
-                        certificationNameRight="Productividad Personal"
-                        certificationDescriptionRight="Google Actívate"
-                    />
-                    <Certifications
-                        startDateCertificationLeft="Sep 2020"
-                        endDateCertificationLeft="Sep 2020"
-                        certificationNameLeft="Digitaliza paso a paso tu negocio con Google My Business y Youtube"
-                        certificationDescriptionLeft="Google Actívate"
-                        startDateCertificationRight="Sep 2020"
-                        endDateCertificationRight="Sep 2020"
-                        certificationNameRight="Protege tu Negocio: Ciberseguridad en el Teletrabajo"
-                        certificationDescriptionRight="Google Actívate"
-                    />
+                    <Certifications/>
                     <hr className="hr-resume-right" />
                 </div>
             </div>
