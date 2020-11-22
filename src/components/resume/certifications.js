@@ -5,7 +5,7 @@ export default class Certifications extends Component {
         return (
             <div className="row">
                 <div className="col-md-12 col-lg-6">
-                    <a className="course-link" href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FFullStackWebDevelopment_DanielVel%C3%A1squez.pdf?alt=media&token=6fc98e7b-cb30-4a7c-9903-c3d1b63d3288" rel="noopener noreferrer" target="_blank" alt="Full Stack Web Development Specialization"><h4 className="resume-h4">Full Stack Web Development Specialization</h4></a>
+                    <a className="course-link" href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FFullStackWebDevelopment_DanielVel%C3%A1squez.pdf?alt=media&token=6fc98e7b-cb30-4a7c-9903-c3d1b63d3288" rel="noopener noreferrer" target="_blank" alt="Full Stack Web Development Specialization"><h4 className="resume-h4">Especialización Full Stack Web Development</h4></a>
                     <small>Universidad Austral & Coursera | Jul 2020 - Nov 2020</small>
                 </div>
                 <div className=" col-md-12 col-lg-6">
@@ -13,7 +13,7 @@ export default class Certifications extends Component {
                     <small>University of Michigan & Coursera | Apr 2020 - Sep 2020</small>
                 </div>
                 <div className="col-md-12 col-lg-6">
-                    <a className="course-link" href="" rel="noopener noreferrer" target="_blank" alt="UI/UX Design Specialization"><h4 className="resume-h4">UI/UX Design Specialization</h4></a>
+                    <a className="course-link" href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FUI-UXDesign_DanielVel%C3%A1squez.pdf?alt=media&token=0cd8a786-b385-4c58-b3ec-a135418f830c" rel="noopener noreferrer" target="_blank" alt="UI/UX Design Specialization"><h4 className="resume-h4">UI/UX Design Specialization</h4></a>
                     <small>California Institute of the Arts & Coursera  | Sep 2020 - Nov 2020</small>
                 </div>
                 <div className=" col-md-12 col-lg-6">
