@@ -14,13 +14,12 @@ export default function Resume() {
                     <h2 className="resume-h2">Daniel Velásquez Iturrate</h2>
                     <h4 className="sub-resume">Software Developer</h4>
                     <hr className="hr-resume-left" />
-                    <p>I am a Systems Engineer with knowledge in software development, especially in the Front End area. In addition, I am interested in learning about SAP, AWS, IA and Google Cloud.
-                    </p>
+                    <p>I am a Systems Engineer with knowledge in software development, especially in the Front End area. In addition, I am interested in learning about Data Science, AWS, IA and Google Cloud.</p>
                     <hr className="hr-resume-left" />
                     <h5>Address</h5>
-                    <p>Caracas, La Urbina, 1073, Venezuela</p>
+                    <p>Nuestra Señora del Villar, 9, Madrid,España 28017</p>
                     <h5>Phone</h5>
-                    <p>+58 (424) 140-0496</p>
+                    <p>+34654288465</p>
                     <h5>Email</h5>
                     <p>velasqueziturrate@gmail.com</p>
                     {/* <h5>Web</h5>
@@ -41,14 +40,14 @@ export default function Resume() {
                     <hr className="hr-resume-left" />
                     <h5>Download Curriculum Vitae</h5>
                     <div className="row">
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20English.pdf?alt=media&token=858ff828-b911-4e6c-b4cc-4cd4844bc91f" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=84913b7c-4697-4bb4-af84-0376afc736b5" rel="noopener noreferrer" target="_blank" alt="Download Español">Español <i className="fas fa-download" /></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FSD%20-%20Daniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20English.pdf?alt=media&token=2dad344b-1004-42ff-94f0-9be600f1377d" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FSD%20-%20Daniel%20Vel%C3%A1squez%20Iturrate%20-%20CV%20Espa%C3%B1ol.pdf?alt=media&token=b16d8976-c53d-4069-a246-f1afa601ef1f" rel="noopener noreferrer" target="_blank" alt="Download Español">Español <i className="fas fa-download" /></a></div>
                     </div>
                     <hr className="hr-resume-left" />
                     <h5>Download Cover Letter</h5>
                     <div className="row">
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20Cover%20Letter%20International.pdf?alt=media&token=c5708bdd-8533-4ead-97cb-ee8258b24bf2" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
-                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FDaniel%20Vel%C3%A1squez%20Iturrate%20-%20Carta%20de%20Presentaci%C3%B3n%20Espa%C3%B1a.pdf?alt=media&token=47ff4893-3774-41e7-8f18-bb3fdeb18187" rel="noopener noreferrer" target="_blank" alt="Download Español">Español <i className="fas fa-download" /></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FSD%20-%20Cover%20Letter%20General.pdf?alt=media&token=0e57e1f6-cdb4-4db1-8d6c-ac06923ee18e" rel="noopener noreferrer" target="_blank" alt="Download English">English <i className="fas fa-download"/></a></div>
+                    <div className="col-md-12 col-lg-6 down"><a href="https://firebasestorage.googleapis.com/v0/b/portfolio-daniel-velasquez.appspot.com/o/doc%2FSD%20-%20Carta%20de%20Presentaci%C3%B3n%20General.pdf?alt=media&token=b9c9ec4d-c254-4928-bf38-1c59b28af1f9" rel="noopener noreferrer" target="_blank" alt="Download Español">Español <i className="fas fa-download" /></a></div>
                     </div>
                     <hr className="hr-resume-left" />
                     {/* Link LinkedIn */}
